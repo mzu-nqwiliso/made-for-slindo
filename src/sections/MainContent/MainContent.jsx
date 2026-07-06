@@ -185,8 +185,8 @@ function MainContent() {
         <div className="letter-card">
           <div className="letter-greeting">Sthandwa Sam,</div>
           <p>I wanted to put something into words somewhere that wasn't just a text that disappears up the screen. These past two months with you have had a way of making ordinary days feel like they're worth remembering. 🌸</p>
-          <p>I don't think I've told you enough how much I notice the small things about you. The way you show up, the way you care it doesn't go unnoticed. 💛</p>
-          <p>This isn't a big dramatic declaration. It's just a quiet thank you for letting me be part of your days. I'm having a really good time with you. 🤍</p>
+          <p>I don't think I've told you enough how much I notice the small things about you. The way you show up, the way you care it doesn't go unnoticed. ❤️</p>
+          <p>This isn't a big dramatic declaration. It's just a quiet thank you for letting me be part of your days. I'm having a really good time with you. 😊</p>
           <div className="signoff">— Muzuvukile</div>
         </div>
         <button className="continue-btn" id="toDateGame" onClick={() => goTo("date-game")}>
